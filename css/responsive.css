@@ -1,5 +1,11 @@
 /* iPhone 4 device responsive starts here */
 @media (max-width: 340px) {
+    #banner {
+    background-color: var(--background-color);
+    width: 100%;
+    height: 700px;
+    margin: 124px auto;
+}
     #loyalty_card .heading_Wrapper {
     padding: 0;
     }
